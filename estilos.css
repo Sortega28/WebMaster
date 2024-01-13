@@ -171,8 +171,8 @@ article a:hover{
 /*Estilos index*/
 
 #titulo{
-    height: 524px;;
-    background: url("..hero-image-home.jpg") no-repeat;
+    height: 524px;
+    background: url(".hero-image-home.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     box-sizing: border-box;
