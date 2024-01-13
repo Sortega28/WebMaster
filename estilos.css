@@ -1051,7 +1051,6 @@ blockquote{
     color: var(--color-texto-fondoFooter);
     font-size: 1.75rem;
     font-family: var(--Noto);
-    margin-left: 1REM;
     display: block;
     
 }
@@ -1138,6 +1137,12 @@ blockquote{
     #Articulo2 .autor, #Articulo3 .autor, #Articulo4 .autor{
         font-size: 0.75rem;
     }
+
+    #Articulo2 h3 a,
+    #Articulo3 h3 a,
+    #Articulo4 h3 a {
+    margin-left: 1rem;
+}
 
 
     .C2 {
