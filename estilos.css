@@ -134,7 +134,7 @@ nav{
     background-color: white;
 }
 
-nav img{
+nav a{
     grid-column: 1/2;
     text-align: left;
     margin-left: 1rem;
